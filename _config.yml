@@ -27,10 +27,15 @@ url: "https://victornovikov.com" # the base hostname & protocol for your site, e
 twitter_username: victornovikov
 github_username:  victornoivkov
 
+social:
+  name: Victor Novikov
+  links: https://github.com/victornovikov
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 google_analytics: G-TJ7X9PPP76
 
